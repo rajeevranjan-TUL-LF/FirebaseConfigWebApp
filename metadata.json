@@ -2,5 +2,7 @@
   "name": "ConfigHub - Remote Configuration Platform",
   "description": "Production-grade developer platform for central application configuration, folder organization, external API syncing, and single-response runtime API distribution.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
